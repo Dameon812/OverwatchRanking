@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+  <h1> Hello my name is Dameon Doyley</h1>
+  <p> This is my website and we are gonna be making a overwatch ranking website</p>
+  <p> I love playing <em>video games</em> and also <strong>talking</strong> about them so this is going to be a fun <mark>project</mark><p>
+  <h2> My skills are</h2>
+   <ul>
+    <li> coding
+    <li> fishing
+    <li> boxing
+  </ul>
+  <img src="https://m.media-amazon.com/images/M/MV5BYjY0ZjJiMDQtNTY0Yy00ODJlLWEzYmYtMGZkZjNjNzc1NzE5XkEyXkFqcGc@._V1_.jpg" alt= "Overwatch image" width = "500" height = "500">
+  <a href="https://overwatch.blizzard.com/en-us/"> visit overwatch.com!</a>
+  <a href="https://www.reddit.com/r/overwatch2/"> visit reddit.com!</a>
+
+</body>
+</html>
